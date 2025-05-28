@@ -1,0 +1,37 @@
+{
+  "total_games": 1000,
+  "successful_games": 1000,
+  "failed_games": 0,
+  "tom_field_coverage": {
+    "prediction_consensus": 1000,
+    "strategic_deception": 1000,
+    "coalition_signals": 1000,
+    "threat_assessment_differences": 1000,
+    "communication_strategy": 1000,
+    "recursive_reasoning": 1000,
+    "information_asymmetry": 1000
+  },
+  "phase_distribution": {
+    "F1907M": 42,
+    "S1901M": 134,
+    "F1901M": 108,
+    "F1903M": 54,
+    "S1907M": 51,
+    "F1905M": 29,
+    "S1902M": 90,
+    "S1909M": 19,
+    "F1908M": 14,
+    "S1906M": 39,
+    "F1902M": 118,
+    "F1906M": 40,
+    "S1905M": 51,
+    "S1903M": 77,
+    "S1904M": 60,
+    "F1904M": 37,
+    "F1909M": 13,
+    "S1908M": 15,
+    "S1910M": 5,
+    "F1910M": 4
+  },
+  "communication_patterns": {}
+}
